@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import Footer from "../Footer";
-import NavBar from "../Navbar";
+import NavBar from "../NavBar";
 
 export default function AppLayout ({children}) {
     return (
