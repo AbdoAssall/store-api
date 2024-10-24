@@ -1,3 +1,15 @@
+# Store API
+I use the Fake Store API to fetch a list of products.
+
+ website link 👉 https://store-api-mu.vercel.app/
+
+#### Libraries I use:
+- Axios to fetch data
+- Material-tailwind (rating, Spinner)
+- Tailwind CSS
+- react-icons
+  
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
